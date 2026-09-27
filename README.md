@@ -86,7 +86,7 @@ This project was built specifically to satisfy the Backend Developer Assessment 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/SaYaN00101/rag-news-api.git
+git clone https://github.com/sayan-jagulia/rag-news-api.git
 cd rag-news-api
 ```
 
@@ -294,7 +294,7 @@ Thanks to the Jina, Qdrant, Google GenAI, Redis, and MySQL communities and libra
 
 ## Contact
 
-- GitHub: [your-github-username](https://github.com/SaYaN00101)
+- GitHub: [sayan-jagulia](https://github.com/sayan-jagulia)
 - Email: sayanjagulia489@gmail.com
 - LinkedIn: https://www.linkedin.com/in/sayan-jagulia
 
